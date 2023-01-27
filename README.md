@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://aldls819.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://aldls819.tistory.com/")
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aldls819&show_icons=true&theme=tokyonight)
 
