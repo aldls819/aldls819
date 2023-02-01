@@ -5,6 +5,7 @@
 
 
 ## :pencil2: Stack
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aldls819&show_icons=true&theme=tokyonight)
