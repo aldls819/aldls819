@@ -4,8 +4,8 @@
 **aldls819/aldls819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-## :pencil2: Stack
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+# :pencil2: Stack
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aldls819&show_icons=true&theme=tokyonight)
