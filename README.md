@@ -28,4 +28,18 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aldls819)](https://solved.ac/aldls819)
 
+
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldls819&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=aldls819&show_icons=true">
+
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=aldls819)
+
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aldls819)](https://solved.ac/aldls819)
+</div>
+<br>
   
