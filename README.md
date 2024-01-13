@@ -2,6 +2,21 @@
 
 
 <div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>	
+	<a href="https://[gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://www.notion.so/ffc7b87060a34200b0e3d167918dc17f?pvs=4)">
+	<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	</a>	
+	<a href="https://aldls819.tistory.com">
+	<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<br>
+</div>
+<br>
+
+
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
 <div align="center">
@@ -44,19 +59,7 @@
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aldls819)](https://solved.ac/aldls819)
 </div>
-<br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>	
-	<a href="https://[gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://www.notion.so/ffc7b87060a34200b0e3d167918dc17f?pvs=4)">
-	<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>	
-	<a href="https://aldls819.tistory.com">
-	<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<br>
-</div>
-<br>
+
+
 
   
