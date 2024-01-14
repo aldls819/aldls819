@@ -2,7 +2,7 @@
 
 
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h4>🎨 SNS & Portfolio 🎨</h4>
 </div>
 <div align=center>	
 	<a href="https://[gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://www.notion.so/ffc7b87060a34200b0e3d167918dc17f?pvs=4)">
@@ -52,9 +52,15 @@
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=aldls819)
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<h4>🏆 Baekjoon solved rank 🏆</h4>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aldls819)](https://solved.ac/aldls819)
+</div>
+
+
+
+<div align=center>
+	<h4> 🌱 Let Me Show my GitHub activity details! 🌱 </h4>
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
