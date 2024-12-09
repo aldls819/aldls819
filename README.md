@@ -2,7 +2,7 @@
 
 
 <div align=center>
-	<h4>🎨 SNS & Portfolio 🎨</h4>
+	<h4>🎨 Portfolio & Blog 🎨</h4>
 </div>
 <div align=center>	
 	<a href="https://[gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d](https://www.notion.so/ffc7b87060a34200b0e3d167918dc17f?pvs=4)">
